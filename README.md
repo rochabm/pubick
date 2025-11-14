@@ -27,4 +27,5 @@ Piecewise Bézier Curve-Based Numerical Schemes for Improved Accuracy in Convect
 
 
 **References:**  
-Rojas Oviedo, P. C.; Magalhães, T. M.; Rocha, B. M.; Queiroz, R. A. B. (2024). *A bounded scheme based on Bézier curves for convection-dominated transport problems.* Computers & Mathematics with Applications. https://doi.org/10.1016/j.cam.2023.115502
+ - Oviedo, P. R.; Ribeiro, A. M.; dos Santos, R. W.; de Queiroz, R. A. B.; Rocha, B. M. (2025) *Piecewise Bézier Curve-Based Numerical Schemes for Improved Accuracy in Convection-Dominated Transport Problems.* Submitted manuscript.
+ - Rojas Oviedo, P. C.; Magalhães, T. M.; Rocha, B. M.; Queiroz, R. A. B. (2024). *A bounded scheme based on Bézier curves for convection-dominated transport problems.* Computers & Mathematics with Applications. https://doi.org/10.1016/j.cam.2023.115502
