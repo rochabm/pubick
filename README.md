@@ -1,5 +1,7 @@
 # pubick
-Piecewise Bézier Curve-Based Numerical Schemes for Improved Accuracy in Convection-Dominated Transport Problems
+Numerical Schemes for Improved Accuracy in Convection-Dominated Transport Problems
+
+This repository provides MATLAB implementations for the numerical solution of convection-dominated fluid-flow and transport problems. It includes the families of high-resolution schemes based on Bézier curves (PUBICK and CUBICK) and on Hermite interpolation (HPUS, FDHPUS, EDHPUS), together with several classical schemes from the literature (FOU, SMART, QUICK, ADBQUICKEST, Superbee, Minmod). A set of benchmark problems is also provided to facilitate the evaluation, comparison, and validation of these schemes.
 
 **Schemes implemented:**
   - PUBICK
